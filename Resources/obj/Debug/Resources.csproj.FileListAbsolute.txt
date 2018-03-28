@@ -1,0 +1,13 @@
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\MVC Projects\Localization Tutorial MVC\Resources\bin\Debug\Resources.dll
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\MVC Projects\Localization Tutorial MVC\Resources\bin\Debug\Resources.pdb
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\MVC Projects\Localization Tutorial MVC\Resources\bin\Debug\ar\Resources.resources.dll
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\MVC Projects\Localization Tutorial MVC\Resources\bin\Debug\es\Resources.resources.dll
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\MVC Projects\Localization Tutorial MVC\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\MVC Projects\Localization Tutorial MVC\Resources\obj\Debug\Resources.Resources.resources
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\MVC Projects\Localization Tutorial MVC\Resources\obj\Debug\Resources.Resources.ar.resources
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\MVC Projects\Localization Tutorial MVC\Resources\obj\Debug\Resources.Resources.es.resources
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\MVC Projects\Localization Tutorial MVC\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\MVC Projects\Localization Tutorial MVC\Resources\obj\Debug\ar\Resources.resources.dll
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\MVC Projects\Localization Tutorial MVC\Resources\obj\Debug\es\Resources.resources.dll
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\MVC Projects\Localization Tutorial MVC\Resources\obj\Debug\Resources.dll
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\MVC Projects\Localization Tutorial MVC\Resources\obj\Debug\Resources.pdb
